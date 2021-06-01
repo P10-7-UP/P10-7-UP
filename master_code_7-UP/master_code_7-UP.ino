@@ -1,7 +1,7 @@
 //Master Code : Team 7-UP
 #include <Wire.h> //I2C
 
-//HAHAHAHAHAHAHAHAH
+//HAHAHAHAHAHAHAHAHA
 
 #define PAY_ADR    0x14 // Payload I2C Address
 //Register Map
