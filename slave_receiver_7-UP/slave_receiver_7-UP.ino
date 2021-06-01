@@ -2,7 +2,7 @@
 #include <Wire.h> //I2C
 
 //Slave Register Address Map
-#define PAY_ID      0x14 // PAYLOAD Address 
+#define PAY_ID      0x14 // PAYLOAD Address 7-UP
 #define PAY_SS      0x02 // PAYLOAD Status Address
 #define PAY_DATA_L  0xB0 // PAYLOAD Low Data & Data Address
 #define PAY_DATA_H  0xB1 // PAYLOAD High Data
